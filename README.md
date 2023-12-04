@@ -22,6 +22,8 @@
 <a href="https://codeforces.com/profile/navodita14092002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="navodita14092002" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/navodita14092002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="navodita14092002" height="30" width="40" /></a>
 </p>
+<br>
+<br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Navy1409" alt="navodita" /></a> </p>
 
 <h3 align="left">Languages and Tools:</h3>
